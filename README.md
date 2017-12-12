@@ -33,6 +33,13 @@ Afterwards, it's as simple as updating the colors via analogWrite();
 
 
 
+## Future Updates
+I plan to use the joystick to change the V value in HSV. The saturation can possibly changed as well but with
+another module in addition to the joystick (e.g. a button).
+
+
+
+
 ## Video
 
 Coming soon
