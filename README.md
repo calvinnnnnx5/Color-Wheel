@@ -30,6 +30,11 @@ Using HSV coordinates, the saturation and value are fixed to 1 (for now). Thus, 
 
 Afterwards, it's as simple as updating the colors via analogWrite();
 
+## Design
+![breadboard design](https://raw.githubusercontent.com/calvinnnnnx5/Color-Wheel/master/color_wheel_bb.jpg)
+
+![schematics](https://raw.githubusercontent.com/calvinnnnnx5/Color-Wheel/master/color_wheel_schem.jpg)
+
 
 
 
