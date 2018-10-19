@@ -1,5 +1,5 @@
 # Color-Wheel
-Joystick-controlled color wheel powered by Arduino
+Joystick-controlled color wheel powered by Arduino.
 
 
 
