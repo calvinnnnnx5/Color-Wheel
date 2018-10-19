@@ -4,7 +4,7 @@ Joystick-controlled color wheel powered by Arduino
 
 
 
-## Introduction
+## Intro
 
 This is a simple project for the Arduino Uno R3 but can probably be ported to other microcontrollers with ease.
 Using a joystick, three 330-ohm resisters, and a common cathode RGB LED, the LED can change its color with respects
